@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.portfolio-website {
+    background-color: #191a1d;
+    height: 100vh;
+}
+
+.navbar-logo-styling {
+    border-style: solid;
+    border-width: 3px;
+    border-color: #4b6cc1;
+    width: 60px;
+    font-weight: 500;
+    font-size: 30px;
+    padding-left: 12px;
+}
+
+.image-dimensions {
+    width: 300px;
+}
+
+.heading-style {
+    font-family: Roboto;
+    color: #ffffff;
+    font-size: 55px;
+}
+
+.jenny-styling {
+    color: #4b6cc1;
+}
+
+.paragraph {
+    color: #9aa5b1;
+    font-size: 23px;
+}
+
+.button-styling {
+    background-color: #4b6cc1;
+    font-family: Roboto;
+    padding: 8px;
+    width: 135px;
+    height: 45px;
+}
+
+.bg-color-container {
+    background-color: #323f4b;
+}
+
+.facts-heading {
+    color: #cced00;
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.aboutme-heading {
+    color: #ffffff;
+    font-family: Roboto;
+    font-weight: 600;
+}
+
+.my-image-dimensions {
+    width: 100%;
+    border-radius: 9px;
+}
+
+.my-description-styling {
+    color: #9aa5b1;
+    font-family: Roboto;
+    font-size: 18px;
+}
+
+.bottom-section-bg-color {
+    background-color: #1f2933;
+}
+
+.bottom-section-card-container {
+    background-color: #323f4b;
+    padding: 18px;
+    width: 180px;
+    height: 190px;
+    border-radius: 12px;
+
+}
+
+.languages-image-dimensions {
+    width: 130px;
+    height: 130px;
+}
+
+.languages-heading {
+    color: #ffffff;
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.bg-color {
+    background-color: #3e4c59;
+}
+
+.portfolio-heading {
+    color: #cced00;
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.portfolio-subheading {
+    color: #ffffff;
+    font-family: Roboto;
+    font-weight: 600;
+}
+
+.grand-hotel-container {
+    background-color: #323f4b;
+    border-radius: 6px;
+}
+
+.text-container {
+    padding: 10px;
+}
+
+.card-first-heading {
+    color: #9aa5b1;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.card-second-heading {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 300;
+}
+
+.card-description {
+    color: #9aa5b1;
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.readmore {
+    color: #cced00;
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: 500;
+}
+
+.testimonial-section {
+    background-color: #1f2933;
+}
+
+.testimonial-heading {
+    color: #cced00;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.the-title {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.testimonial-card-image {
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+}
+
+.testimonial-card-description {
+    color: #9aa5b1;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.person-name {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.card-container {
+    background-color: #323f4b;
+    padding: 25px;
+}
+
+.indicators {
+    text-align: right;
+    font-size: 30px;
+}
+
+.portfolio-footer {
+    background-color: #0d2436;
+}
+
+.image-properties {
+    border-radius: 50px;
+    height: 70px;
+    width: 70px;
+}
+
+.footer-section-heading {
+    color: #cced00;
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.footer-section-description {
+    color: #9aa5b1;
+    font-family: Roboto;
+}
+
+.icon {
+    padding-right: 10px;
+    font-size: 18px;
+    color: #9aa5b1;
+}
+
+.footer-copyright-section {
+    background-color: #001c32;
+}
